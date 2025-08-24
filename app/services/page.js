@@ -18,7 +18,7 @@ const Services = () => {
                     Company Statistics
                   </span>
                   <h2>
-                    Discover Extraordinary projects brought to life on Oxence.
+                    Discover Extraordinary projects brought to life on Amanikable Works.
                   </h2>
                 </div>
                 <p>

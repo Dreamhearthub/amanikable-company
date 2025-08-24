@@ -193,7 +193,7 @@ const ProjectGridIsotope = () => {
               <h5>
                 <Link legacyBehavior href="project-details">
                   <a>
-                    Oxence Website design <br />
+                    Amanikable Website design <br />
                     development Template
                   </a>
                 </Link>
@@ -274,7 +274,7 @@ const ProjectGridIsotope = () => {
               <h5>
                 <Link legacyBehavior href="project-details">
                   <a>
-                    Oxence Website development <br />
+                    Amanikable Website development <br />
                     Services Template
                   </a>
                 </Link>

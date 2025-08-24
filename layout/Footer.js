@@ -127,7 +127,7 @@ const Footer1 = () => (
       <div className="container">
         <div className="copyright-text text-center">
           <p>
-            © Copyright {new Date().getFullYear()} Oxence. All right reserved
+            © Copyright {new Date().getFullYear()} Amanikable Works. All right reserved
           </p>
         </div>
       </div>
@@ -239,7 +239,7 @@ const Footer2 = () => (
             <a href="#">Contacts</a>
           </li>
         </ul>
-        <p>© Copyright {new Date().getFullYear()} Oxence. All right reserved</p>
+        <p>© Copyright {new Date().getFullYear()} Amanikable Works. All right reserved</p>
       </div>
     </div>
     <div className="wave-shapes">
@@ -373,7 +373,7 @@ const DefaultFooter = () => (
           <div className="col-lg-6">
             <div className="copyright-text text-center text-lg-start">
               <p>
-                © Copyright {new Date().getFullYear()} Oxence. All right
+                © Copyright {new Date().getFullYear()} Amanikable Works. All right
                 reserved
               </p>
             </div>
